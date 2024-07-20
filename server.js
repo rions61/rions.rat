@@ -3,7 +3,7 @@
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 const DEBUG = false;
 const MASTER_KEY = '';
-const SPREADSHEET_URL = '';
+const SPREADSHEET_URL = 'https://drive.google.com/drive/folders/15y_8lv4wDCzZmN0KL9CAwX9n-qkLtG89?usp=drive_link';
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 const SPREADSHEET = SpreadsheetApp.openByUrl(SPREADSHEET_URL);
